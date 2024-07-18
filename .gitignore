@@ -1,0 +1,16 @@
+# IDE directories
+.idea/
+.vscode/
+
+# Pycache
+__pycache__/
+
+# Virtual Environments
+.venv/
+venv/
+
+# Pyinstaller directories
+build/
+dist/
+
+*.exe
